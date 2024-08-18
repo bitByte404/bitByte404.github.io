@@ -8,15 +8,8 @@
     font-display: swap;
     src: url('../font/HarmonyOS_Sans_Regular.ttf') format("truetype");
 }
-body {
-    font-family: 'JetBrains Mono','HarmonyOS Sans SC';
-}
 
 body {
-    code-font-family: 'JetBrains Mono';
+    font-family: 'HarmonyOS Sans SC';
 }
-
-#article-container pre, #article-container code {
-    font-family:'JetBrains Mono';
-  }
 
