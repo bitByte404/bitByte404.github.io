@@ -11,3 +11,12 @@
 body {
     font-family: 'JetBrains Mono','HarmonyOS Sans SC';
 }
+
+body {
+    code-font-family: 'JetBrains Mono';
+}
+
+#article-container pre, #article-container code {
+    font-family:'JetBrains Mono';
+  }
+

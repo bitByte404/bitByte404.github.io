@@ -104,3 +104,7 @@ hue-6-2: #e6c07b
   .hljs-link {
     text-decoration: underline;
   }
+
+  #article-container pre, #article-container code {
+    font-family:Fira Code!important;
+  }
